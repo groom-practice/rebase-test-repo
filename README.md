@@ -1,3 +1,2 @@
 rebase-test-repo
-하유희
-new testbranch 입니다.
+두번째 실습페이지
